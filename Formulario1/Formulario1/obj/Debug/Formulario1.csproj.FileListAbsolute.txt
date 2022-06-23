@@ -1,0 +1,10 @@
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\bin\Debug\Formulario1.exe.config
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\bin\Debug\Formulario1.exe
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\bin\Debug\Formulario1.pdb
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.Form1.resources
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.Properties.Resources.resources
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.exe
+C:\Users\ignac\Desktop\repos\PracticaEntornosT6\Formulario1\Formulario1\obj\Debug\Formulario1.pdb
